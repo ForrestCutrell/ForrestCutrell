@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ForrestCutrell
-- 👀 I’m interested in coding, nature, 
+- 👀 I’m interested in coding and nature
 - 🌱 I’m currently learning database management, artificial intelligence, and working with systems
 
 <!---
